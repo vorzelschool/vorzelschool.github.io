@@ -1,0 +1,16 @@
+.bg-image {
+    position: relative;
+    text-align: center;
+}
+
+.bg-image-text-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bg-image-text-title {
+    color: #ffffff;
+    font-size: 43px;
+}
